@@ -8,6 +8,12 @@
   </div>
 </template>
 
+<script>
+import  Start  from './components/Start.vue'
+
+</script>
+
+
 <style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
